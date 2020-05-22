@@ -1,0 +1,10 @@
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\bin\Debug\LabTerver.exe.config
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\bin\Debug\LabTerver.exe
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\bin\Debug\LabTerver.pdb
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\obj\Debug\LabTerver.csprojAssemblyReference.cache
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\obj\Debug\LabTerver.Form1.resources
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\obj\Debug\LabTerver.Properties.Resources.resources
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\obj\Debug\LabTerver.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\obj\Debug\LabTerver.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\obj\Debug\LabTerver.exe
+C:\Users\Павел\Desktop\ТерВер лабы\LabTerver\LabTerver\obj\Debug\LabTerver.pdb
